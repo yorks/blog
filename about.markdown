@@ -5,18 +5,18 @@ layout: page
 
 a
 
-> Minimalist | Appleist | Unixer | Coder
+> SA | Linuxer | Coder
 
 who involved in 
 
-> [github](https://github.com/waynezhang)
+> [github](https://github.com/yorks)
 
 mail 
 
-> echo srvpqxfbyqfvpdtkbjwt | tr yxwvtsrqpkjfdb zuonmlihgeca@.
+> echo yorks_yang@163_com | tr _ .
 
 or follow 
 
-> [@o_lll](https://twitter.com/#!/o_lll)
+> [@空白-yy](http://weibo.com/iyangyou)
 
 to reach me
