@@ -18,4 +18,5 @@ tags:
 5. server 收到后用 private_key 对 s_pass 进行解密，并用 pass 对http内容进行对称加密，发送给client.
 6. client 解开，展现出来。
 
+
 * 由pubkey加密过的密钥，可以使用私钥(private_key) 进行解密.
