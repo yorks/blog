@@ -1,7 +1,7 @@
 ---
 title: 2015 birthday
 layout: post
-guid: urn:uuid:cceda947-dd82-461a-9918-7a735b670b18
+guid: urn:uuid:b12c7ef9-b274-4c31-99aa-a0a09b3ebfa2
 tags:
   - screenshot
   - birthday
