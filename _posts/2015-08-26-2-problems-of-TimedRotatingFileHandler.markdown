@@ -29,7 +29,7 @@ tags:
             ...
 ```
 从上面的代码可以看出，它的轮转时间是根据启动时间(日志文件存在mtime)为起点，到达 `self.interval` （单位是s)就会进行轮转，
-所以轮转日志的时候就有很大可能不是在整点/整分/，即 如果你设置了每个小时轮转，启动是在`9:31:01`，那么下一个轮转点就会是`10:31:01`，
+所以轮转日志的时候就有很大可能不是在整点/整分/，即 如果你设置了每个小时轮转，启动是在`09:31:01`，那么下一个轮转点就会是`10:31:01`，
 这样导致的问题是，找`10:30`的日志，需要跑文件名中的小时为 10 的日志，找`10:32`的需要从文件名小时为11的日志里面找。
 并不是我们平时需要的每到整点就轮转。
 
@@ -38,14 +38,18 @@ tags:
     class TimedRotatingFileHandler(BaseRotatingHandler):
 ```
 这个类继承了`BaseRotatingHandler` 我们再看看`BaseRotatingHandler`
+
 ```
     class BaseRotatingHandler(logging.FileHandler):
 ```
 发现`BaseRotatingHandler`里面并没有什么加锁的逻辑，我们再过去看看`logging.FileHandler`
+
 ```
     class FileHandler(StreamHandler):
 ```
 发现`FileHandler`里面对只是对`close`关闭日志文件句柄的时候做了线程锁，并没有针对写日志的锁。依然过去看看`StreamHandler`:
+
+
 ```
         def flush(self):
             """
