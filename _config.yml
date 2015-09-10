@@ -8,6 +8,7 @@ markdown: rdiscount
 author: "yorks"
 atom-baseurl: "http://kiss.qwer1234.info"
 disqus: "gopherwood"
+duoshuo: "kiss-qwer1234"
 
 navigations:
   - title: Archive
