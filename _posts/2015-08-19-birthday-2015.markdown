@@ -20,5 +20,4 @@ tags:
 
 再过几分钟就是七夕了，祝福某人七夕快乐，天天开心！
 
-![红包](http://7xl5ez.com1.z0.glb.clouddn.com/Screenshot_2015-08-19-23-45-21.jpeg)
-
+[![红包](/media/files/pic/2015/Screenshot_2015-08-19-23-45-21-small.jpeg)](http://7xl5ez.com1.z0.glb.clouddn.com/Screenshot_2015-08-19-23-45-21.jpeg)
