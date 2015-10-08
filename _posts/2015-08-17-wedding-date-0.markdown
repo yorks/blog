@@ -3,7 +3,7 @@ title: 看日子
 layout: post
 guid: urn:uuid:64e4818d-e8b5-4b05-8548-e33537fc4f39
 tags:
-  - webding
+  - wedding
   - date
   - upset
 ---

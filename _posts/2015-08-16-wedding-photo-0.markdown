@@ -1,10 +1,10 @@
 ---
-title: Webding-photo-0
+title: Wedding-photo-0
 layout: post
 guid: urn:uuid:cceda947-dd82-461a-9918-7a735b670b18
 tags:
   - photography
-  - webding
+  - wedding
   - taobao
 ---
 
