@@ -9,8 +9,13 @@
  * |/ | (~ (~
  * |\.|._)._)
  * --------------------------------- */
+
+/*
+ * remove the fonts css, modify by yorks
 @import url(/media/fonts/telex-regular.css);
 @import url(/media/css/google-family-ubuntu.css);
+*/
+
 * {
   margin: 0;
   padding: 0; }
