@@ -6,9 +6,9 @@ namedetail: "Keep It Simple & Stupid"
 markdown: rdiscount
 
 author: "yorks"
-atom-baseurl: "http://kiss.qwer1234.info"
+atom-baseurl: "http://blog.yy8.info"
 disqus: "gopherwood"
-duoshuo: "kiss-qwer1234"
+duoshuo: "yy8-info"
 
 navigations:
   - title: Archive
