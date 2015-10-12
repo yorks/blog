@@ -117,9 +117,9 @@ tags:
 <p>
 <div style="text-align:center;">
 <a href="http://ww3.sinaimg.cn/large/575d7e6agw1ewynim1cu8j21kw24t4qp.jpg">
-   <img style="display:none" id="da-san-ba-people" src=""  path="http://ww3.sinaimg.cn/mw690/575d7e6agw1ewynim1cu8j21kw24t4qp.jpg" title="点击显示大图" />
+   <img style="display:none" id="wan-dian" src=""  path="http://ww3.sinaimg.cn/mw690/575d7e6agw1ewynim1cu8j21kw24t4qp.jpg" title="点击显示大图" />
 </a>
-<input value="Show Img" onclick="showImg('da-san-ba-people', this)" style="font-size:12px; padding:5px; text-align:center;" type="button">
+<input value="Show Img" onclick="showImg('wan-dian', this)" style="font-size:12px; padding:5px; text-align:center;" type="button">
 <br />
 城轨都晚点
 </div>
