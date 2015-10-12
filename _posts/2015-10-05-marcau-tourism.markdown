@@ -98,8 +98,6 @@ tags:
 <br />
 大三巴牌坊
 </div>
-</p>
-<p>
 <div style="text-align:center;">
 <a href="http://ww4.sinaimg.cn/large/575d7e6agw1ewynifopozj21kw11z1kx.jpg">
    <img style="display:none" id="da-san-ba-people" src=""  path="http://ww4.sinaimg.cn/mw690/575d7e6agw1ewynifopozj21kw11z1kx.jpg" title="点击显示大图" />
@@ -109,6 +107,27 @@ tags:
 大三巴路口
 </div>
 </p>
+<p>
+<div style="text-align:center;">
+<a href="http://ww2.sinaimg.cn/large/575d7e6agw1ewyobedqujj21kw2d6e81.jpg">
+   <img style="display:none" id="da-pao-tai" src=""  path="http://ww2.sinaimg.cn/mw690/575d7e6agw1ewyobedqujj21kw2d6e81.jpg" title="点击显示大图" />
+</a>
+<input value="Show Img" onclick="showImg('da-pao-tai', this)" style="font-size:12px; padding:5px; text-align:center;" type="button">
+<br />
+大炮台
+</div>
+<div style="text-align:center;">
+<a href="http://ww1.sinaimg.cn/large/575d7e6agw1ewyod8v169j21kw11z4p1.jpg">
+   <img style="display:none" id="da-pao-tai-view" src=""  path="http://ww1.sinaimg.cn/large/575d7e6agw1ewyod8v169j21kw11z4p1.jpg" title="点击显示大图" />
+</a>
+<input value="Show Img" onclick="showImg('da-pao-tai-view', this)" style="font-size:12px; padding:5px; text-align:center;" type="button">
+<br />
+大炮台俯视
+</div>
+</p>
+
+
+
 
 ### 悲催的回程
 看时间差不多了，便往回赶，拿了戒指，便找地方坐车去关口，本来想等公交，但是等了好久还是没等到，便过去新葡京看看，发现人更多，打的都要排很长很长的队伍，所以跑到对面的公交站，站牌跟实际上车的地点有点不符，等了好久终于上了**3x** 公交，时间已经很晚了，`19:15`的城轨估计是来不及了，好无奈。
