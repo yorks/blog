@@ -119,14 +119,7 @@ tags:
 看时间差不多了，便往回赶，拿了戒指，便找地方坐车去关口，本来想等公交，但是等了好久还是没等到，便过去新葡京看看，发现人更多，打的都要排很长很长的队伍，所以跑到对面的公交站，站牌跟实际上车的地点有点不符，等了好久终于上了**3x** 公交，时间已经很晚了，`19:15`的城轨估计是来不及了，好无奈。
 
 最后到关口已经`19:08`了，拿着车票跟通行证走了国际外交友谊通道，闪速过关，一路飞奔珠海站，还是来不及，看到屏幕上面显示的**停止检票** 心都凉了，只好过去人工窗口，排队，改签！改签还是没有座位的，更糟糕的是，竟然晚点一个多小时，WTF！只好在候车区等，友宝上面买瓶水还被吞5块钱，哎……
-<div style="text-align:center;">
-<a href="http://ww3.sinaimg.cn/large/575d7e6agw1ewynim1cu8j21kw24t4qp.jpg">
-   <img style="display:none" id="wan-dian" src=""  path="http://ww3.sinaimg.cn/mw690/575d7e6agw1ewynim1cu8j21kw24t4qp.jpg" title="点击显示大图" />
-</a>
-<input value="Show Img" onclick="showImg('wan-dian', this)" style="font-size:12px; padding:5px; text-align:center;" type="button">
-<br />
-城轨都晚点
-</div>
+<div class="hidden-img" id="hidden-img-1" data-img-big-path="http://ww3.sinaimg.cn/large/575d7e6agw1ewynim1cu8j21kw24t4qp.jpg" data-img-small-path="http://ww3.sinaimg.cn/mw690/575d7e6agw1ewynim1cu8j21kw24t4qp.jpg" data-img-title="城轨都晚点"></div>
 
 上了城轨，一路会到广州南，然后地铁，到了万胜围4号线竟然停了，只好去打车，无奈手机没电，叫车也叫不了，黑车，的士都坐地起价，还好有好心人通过叫车软件一起会去，然后半路到好打车的地方我们再打车回去！！！真是一波N折啊！！！**经验4**:回程尽量早点或者定晚点的轻轨班次的票。
 
