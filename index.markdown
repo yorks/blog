@@ -44,3 +44,10 @@ layout: default
     <li class="listing-seperator"><a href="/archive.html">Long long ago</a></li>
   </ul>
 </div>
+<!-- 显示图片按钮 start -->
+<script type="text/javascript">
+    $(document).ready(function() {
+                genImgbtn();
+    });
+</script>
+<!-- 显示图片按钮 end -->

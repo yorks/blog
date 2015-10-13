@@ -1,13 +1,15 @@
 function genImgbtn(){
-    $('.hidden-img').each(function(){
+    var i = 0;
+    $('.hidden-img-div').each(function(){
         $(this).css("text-align", "center");
         var img_big_path = $(this).attr('data-img-big-path');
         var img_small_path = $(this).attr('data-img-small-path');
         var img_title = $(this).attr('data-img-title');
-        var btn_id = $(this).attr('id')+"-btn";
-        var img_id = $(this).attr('id')+"-img";
+        var btn_id = "img-btn-"+i;
+        var img_id = "img-"+i;
         var img_html = "<a href='"+img_big_path+"'><img id='"+img_id+"' style='display:none' data-path='"+img_small_path+"' title='点击显示大图' /></a><input data-img-id='"+img_id+"' value='Show Img' onclick='showImg(this)' style='font-size:12px; padding:5px; text-align:center;' type='button'><br />"+img_title;
         $(this).html(img_html);
+        i++;
     });
 }
 function showImg(btn){
