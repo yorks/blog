@@ -27,90 +27,27 @@ tags:
 过关后，出来左手边便是威尼斯人酒店的免费巴士，很多人排队，所以我们第一站便是威尼斯人酒店。
 
 威尼斯人酒店主要是酒店住宿、购物、赌场，从照片跟标价上看都比较高级奢华。我们就围观，看景色，看别人豪赌。
-<div style="text-align:center;">
-<a href="http://ww3.sinaimg.cn/large/575d7e6agw1ewyn537tmzj21kw1644l1.jpg">
-   <img style="display:none" id="wei-ni-si-ren-outside" src=""  path="http://ww3.sinaimg.cn/mw690/575d7e6agw1ewyn537tmzj21kw1644l1.jpg" title="点击显示大图" />
-</a>
-<input value="Show Img" onclick="showImg('wei-ni-si-ren-outside', this)" style="font-size:12px; padding:5px; text-align:center;" type="button">
-<br />
-威尼斯人外观
-</div>
-<div style="text-align:center;">
-<a href="http://ww3.sinaimg.cn/large/575d7e6agw1ewyn5cz8tjj21kw2d6qv5.jpg">
-   <img style="display:none" id="wei-ni-si-ren-shopping" src=""  path="http://ww3.sinaimg.cn/mw690/575d7e6agw1ewyn5cz8tjj21kw2d6qv5.jpg" title="点击显示大图" />
-</a>
-<input value="Show Img" onclick="showImg('wei-ni-si-ren-shopping', this)" style="font-size:12px; padding:5px; text-align:center;" type="button">
-<br />
-威尼斯人购物天堂
-</div>
+<div class="hidden-img-div"  data-img-big-path="http://ww3.sinaimg.cn/large/575d7e6agw1ewyn537tmzj21kw1644l1.jpg" data-img-small-path="http://ww3.sinaimg.cn/mw690/575d7e6agw1ewyn537tmzj21kw1644l1.jpg" data-img-title="威尼斯人外观"></div>
+<div class="hidden-img-div"  data-img-big-path="http://ww3.sinaimg.cn/large/575d7e6agw1ewyn5cz8tjj21kw2d6qv5.jpg" data-img-small-path="http://ww3.sinaimg.cn/mw690/575d7e6agw1ewyn5cz8tjj21kw2d6qv5.jpg" data-img-title="威尼斯人购物天堂"></div>
 
 从威尼斯人出来后，还是从下车的门出来，右手边走，上自动扶梯，一直走到了[龙环葡韵][1]，这里主要是葡萄牙人的居住环境，葡式建筑，个人觉得没啥好看的。
 
 然后顺着路标继续走没多远就到了[官也街][2]，很小的很短的美食街，吃饭的，特产的，喝的。。。当然在这里解决午饭是很明智的选择，特别推荐的是刚进去街口右手边最后一间店，好像叫`兴记咖啡室`,为什么推荐呢，主要是，听跟本地人聊天，说一直没涨价，另外一个是味道也相当不错。
-<div style="text-align:center;">
-<a href="http://ww3.sinaimg.cn/large/575d7e6agw1ewyn696hhpj21kw24tnpd.jpg">
-   <img style="display:none" id="guan-ye-jie-way" src=""  path="http://ww3.sinaimg.cn/mw690/575d7e6agw1ewyn696hhpj21kw24tnpd.jpg" title="点击显示大图" />
-</a>
-<input value="Show Img" onclick="showImg('guan-ye-jie-way', this)" style="font-size:12px; padding:5px; text-align:center;" type="button">
-<br />
-通往官也街的路上
-</div>
-<div style="text-align:center;">
-<a href="http://ww3.sinaimg.cn/large/575d7e6agw1ewyn6dejbij21kw24tnpd.jpg">
-   <img style="display:none" id="guan-ye-jie" src=""  path="http://ww3.sinaimg.cn/mw690/575d7e6agw1ewyn6dejbij21kw24tnpd.jpg" title="点击显示大图" />
-</a>
-<input value="Show Img" onclick="showImg('guan-ye-jie', this)" style="font-size:12px; padding:5px; text-align:center;" type="button">
-<br />
-官也街
-</div>
+<div class="hidden-img-div"  data-img-big-path="http://ww3.sinaimg.cn/large/575d7e6agw1ewyn696hhpj21kw24tnpd.jpg" data-img-small-path="http://ww3.sinaimg.cn/mw690/575d7e6agw1ewyn696hhpj21kw24tnpd.jpg" data-img-title="通往官也街的路上"></div>
+<div class="hidden-img-div"  data-img-big-path="http://ww3.sinaimg.cn/large/575d7e6agw1ewyn6dejbij21kw24tnpd.jpg" data-img-small-path="http://ww3.sinaimg.cn/mw690/575d7e6agw1ewyn6dejbij21kw24tnpd.jpg" data-img-title="官也街"></div>
 
 解决午饭后，便步行回去威尼斯人坐免费巴士到金沙（注意不是金沙城），所以下一站就是[渔人码头][3]了。渔人码头可以看到海边，看到很多城堡，值得过去逛逛。无奈那天天公不作美，有点阵雨，没太阳，所以拍照不好看。
-<div style="text-align:center;">
-<a href="http://ww1.sinaimg.cn/large/575d7e6agw1ewynhgxaocj21kw0f3107.jpg">
-   <img style="display:none" id="yu-ren-ma-tou-sea" src=""  path="http://ww1.sinaimg.cn/mw690/575d7e6agw1ewynhgxaocj21kw0f3107.jpg" title="点击显示大图" />
-</a>
-<input value="Show Img" onclick="showImg('yu-ren-ma-tou-sea', this)" style="font-size:12px; padding:5px; text-align:center;" type="button">
-<br />
-渔人码头海边
-</div>
+<div class="hidden-img-div"  data-img-big-path="http://ww1.sinaimg.cn/large/575d7e6agw1ewynhgxaocj21kw0f3107.jpg" data-img-small-path="http://ww1.sinaimg.cn/mw690/575d7e6agw1ewynhgxaocj21kw0f3107.jpg" data-img-title="渔人码头海边"></div>
 
 威尼斯人跟金沙估计是同一个老板，所以有直接的穿梭巴士，我们下一站是新马路，所以要做车到葡京，为了省钱，我们做了一个错误的决定，先在金沙坐免费巴士到[港澳码头][5]然后再转到新葡京的车。到了港澳码头发现到葡京的人不是一般的多，所以等了好久。**经验3**:下次应该直接在金沙打的士过去。
 
 到了新葡京，还是赌场，所以我们直接忽略，过去新马路，shopping！新马路人很多，变随便进入了一家澳门本土的金店`盛丰`。 她挑了好久，最后把需要的都刷卡买买买。
 
 戒指要改大小，所以我们下一站[大三巴][4]，澳门标志性景点，拍张照片证明到过，即可。继续往上走便是大炮台。
-<div style="text-align:center;">
-<a href="http://ww2.sinaimg.cn/large/575d7e6agw1ewyni989lqj21kw11z4pq.jpg">
-   <img style="display:none" id="da-san-ba" src=""  path="http://ww2.sinaimg.cn/mw690/575d7e6agw1ewyni989lqj21kw11z4pq.jpg" title="点击显示大图" />
-</a>
-<input value="Show Img" onclick="showImg('da-san-ba', this)" style="font-size:12px; padding:5px; text-align:center;" type="button">
-<br />
-大三巴牌坊
-</div>
-<div style="text-align:center;">
-<a href="http://ww4.sinaimg.cn/large/575d7e6agw1ewynifopozj21kw11z1kx.jpg">
-   <img style="display:none" id="da-san-ba-people" src=""  path="http://ww4.sinaimg.cn/mw690/575d7e6agw1ewynifopozj21kw11z1kx.jpg" title="点击显示大图" />
-</a>
-<input value="Show Img" onclick="showImg('da-san-ba-people', this)" style="font-size:12px; padding:5px; text-align:center;" type="button">
-<br />
-大三巴路口
-</div>
-<div style="text-align:center;">
-<a href="http://ww2.sinaimg.cn/large/575d7e6agw1ewyobedqujj21kw2d6e81.jpg">
-   <img style="display:none" id="da-pao-tai" src=""  path="http://ww2.sinaimg.cn/mw690/575d7e6agw1ewyobedqujj21kw2d6e81.jpg" title="点击显示大图" />
-</a>
-<input value="Show Img" onclick="showImg('da-pao-tai', this)" style="font-size:12px; padding:5px; text-align:center;" type="button">
-<br />
-大炮台
-</div>
-<div style="text-align:center;">
-<a href="http://ww1.sinaimg.cn/large/575d7e6agw1ewyod8v169j21kw11z4p1.jpg">
-   <img style="display:none" id="da-pao-tai-view" src=""  path="http://ww1.sinaimg.cn/large/575d7e6agw1ewyod8v169j21kw11z4p1.jpg" title="点击显示大图" />
-</a>
-<input value="Show Img" onclick="showImg('da-pao-tai-view', this)" style="font-size:12px; padding:5px; text-align:center;" type="button">
-<br />
-大炮台俯视
-</div>
+<div class="hidden-img-div"  data-img-big-path="http://ww2.sinaimg.cn/large/575d7e6agw1ewyni989lqj21kw11z4pq.jpg" data-img-small-path="http://ww2.sinaimg.cn/mw690/575d7e6agw1ewyni989lqj21kw11z4pq.jpg" data-img-title="大三巴牌坊"></div>
+<div class="hidden-img-div"  data-img-big-path="http://ww4.sinaimg.cn/large/575d7e6agw1ewynifopozj21kw11z1kx.jpg" data-img-small-path="http://ww4.sinaimg.cn/mw690/575d7e6agw1ewynifopozj21kw11z1kx.jpg" data-img-title="大三巴路口"></div>
+<div class="hidden-img-div"  data-img-big-path="http://ww2.sinaimg.cn/large/575d7e6agw1ewyobedqujj21kw2d6e81.jpg" data-img-small-path="http://ww2.sinaimg.cn/mw690/575d7e6agw1ewyobedqujj21kw2d6e81.jpg" data-img-title="大炮台"></div>
+<div class="hidden-img-div"  data-img-big-path="http://ww1.sinaimg.cn/large/575d7e6agw1ewyod8v169j21kw11z4p1.jpg" data-img-small-path="http://ww1.sinaimg.cn/large/575d7e6agw1ewyod8v169j21kw11z4p1.jpg" data-img-title="大炮台俯视"></div>
 
 
 
