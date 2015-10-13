@@ -42,5 +42,14 @@
           </div>
         </footer>
       </div> <!-- main -->
+      <!-- open url with new window when url.hostname != window.hostname -->
+     <script type="text/javascript">
+        $(document).ready(function() {
+            $(document.links).filter(function() {
+                    return this.hostname != window.location.hostname;
+            }).attr('target', '_blank');
+        });
+    </script>
+
   </body>
 </html>
