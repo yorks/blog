@@ -132,7 +132,7 @@ root@OpenWrt:~# ip addr show dev tun0
 
 ### 客户端 
 我客户端是公司的电脑，系统是 Linux， 所以直接从 github clone 下来编译即可。由于种种原因作者已经从 github 上面把代码删掉了，但是有很多人都fork了，所以可以下载其中一个 比如： [Github][2]
-编译就不多说，安装官方说明操作就行。
+编译就不多说，安装官方说明操作就行。注意一下 libsodium 这个需要从[Github][3]获取。
 #### 配置客户端
 
 ```shell
@@ -206,3 +206,4 @@ PING 10.8.0.1 (10.8.0.1) 56(84) bytes of data.
 
    [1]: https://sourceforge.net/projects/openwrt-dist/files/shadowvpn/ "Sourceforge openwrt-shadowvpn"
    [2]: https://github.com/Long-live-shadowsocks/ShadowVPN "Github Long-live ShadownVPN"
+   [3]: https://github.com/jedisct1/libsodium.git    "Github libsodium"
